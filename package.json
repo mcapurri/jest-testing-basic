@@ -1,0 +1,23 @@
+{
+    "name": "jest_testing_basic",
+    "version": "1.0.0",
+    "description": "",
+    "main": "anagrams.js",
+    "scripts": {
+        "test": "jest --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mcapurri/jest-testing-basic.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mcapurri/jest-testing-basic/issues"
+    },
+    "homepage": "https://github.com/mcapurri/jest-testing-basic#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "jest": "^27.0.4"
+    }
+}
